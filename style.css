@@ -1,0 +1,11 @@
+.blue-box {
+  background-color: rgb(33, 33, 118);
+  border: 1px solid black;
+  text-align: center;
+  color: white;
+  font-weight: 400;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+footer {
+}

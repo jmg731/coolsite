@@ -1,5 +1,5 @@
 .blue-box {
-  background-color: rgb(33, 33, 118);
+  background-color: #1C4587;
   border: 1px solid black;
   text-align: center;
   color: white;
@@ -7,5 +7,40 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+main {
+  margin: 5vh 0vw 5vh 20vw;
+}
+
+.copy-content {
+  display: inline-block;
+  width: 40vw;
+  padding-right: 5vw;
+}
+
+.image-content {
+  display: inline-block;
+  /* position: relative; */
+  width: 25vh;
+}
+
+.image-content p {
+  font-size: 13px;
+}
+
+.image-content h4 {
+  margin-bottom: -10px;
+}
+
+main h2 {
+  border-top: 20px solid lightblue;
+  padding-top: 10px;
+}
+
 footer {
+  height: 15vh;
+}
+
+.color-wheel {
+  height: 20vh;
+  width: 20vh;
 }
